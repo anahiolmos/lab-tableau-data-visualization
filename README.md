@@ -2,6 +2,10 @@
 
 # Lab | Data Visualization with Tableau
 
+**Links Lab Resuelto:**
+Tableau NFL statistics: https://public.tableau.com/shared/NZNBGX8KC?:display_count=n&:origin=viz_share_link
+Tableau Bonus Challenge Worldwide: https://public.tableau.com/views/Lab_Tableau-Data-Viz_BonusChallenge-Worldwide/Historia1?:language=es-ES&:display_count=n&:origin=viz_share_link
+
 ## Introduction
 
 In this lab, we will practice creating visualizations using the many types of charts and graphs that come with Tableau.
